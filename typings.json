@@ -1,0 +1,16 @@
+{
+  "name": "deriv",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/scijs/deriv",
+  "version": "",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape^0.1.0",
+    "chai": "registry:npm/chai#3.5.0+20160415060238"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node^4.0.0"
+  },
+  "globalDevDependencies": {
+    "mocha": "registry:dt/mocha#2.2.5+20160317120654"
+  }
+}
